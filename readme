@@ -1,1 +1,2 @@
-readme
+NFT Gallery
+A collection of NFT cards owned by the users connected wallet address. On the backend developers can plug in any contract or wallet address and display NFTs associated with that address.
